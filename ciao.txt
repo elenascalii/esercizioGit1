@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 ciao testo ciao astuccio 
+=======
+ciao testo ciao
+riga inserita da merged
+>>>>>>> merged
 
 riga aggiunta da branch fix ciaociabellao
+
+
+uno due tre quattro
